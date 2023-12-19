@@ -26,7 +26,7 @@ The `1000img.csv` file containts:
 
 ### Dataset Link
 
--   `LAMBI 1000img` - https://www.kaggle.com/datasets/kevinarnandes/fashion-dataset-lambi
+-   `LAMBI 1000img` - https://www.kaggle.com/datasets/1be72d011d491e848d93bc4363eb877db3ea7ec55d1a92460723130c88d50b2f
 
 ### Links Reference Dataset
 
