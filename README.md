@@ -1,6 +1,6 @@
 # Clothing Dataset LAMBI
 
-<img src="./example-image/cover.png" /> <br>
+<img src="./example-image/cover (2).png" /> <br>
 We have compiled a dataset consisting of over 10,892 images belonging to 11 distinct classes. This dataset is the result of merging four different datasets, the links to which can be found below. The amalgamation of these datasets serves as our training set for developing and training the CNN model.
 
 ### Data
